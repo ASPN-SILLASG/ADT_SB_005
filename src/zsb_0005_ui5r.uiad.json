@@ -1,0 +1,33 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "월 수불부",
+    "originalLanguage": "ko",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "com.dine.mm.zmm0003"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_96E41E3955202F12DC1C9238EE274059267C8AE4_TM",
+    "semanticObject": "ZCBO_MM_0003",
+    "action": "manage",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_96E41E3955202F12DC1C9238EE274059267C8AE4_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "월 수불부"
+      }
+    }
+  ]
+}
